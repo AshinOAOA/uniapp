@@ -1,0 +1,9 @@
+.submitBtn{
+	width: 95%;
+	margin-top: 40upx;
+}
+.page-fill{
+	width: 100%;
+	height: 100%;
+	position: absolute;
+}

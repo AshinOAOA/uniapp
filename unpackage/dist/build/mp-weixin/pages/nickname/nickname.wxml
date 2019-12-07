@@ -1,0 +1,1 @@
+<view class="page page-fill"><form data-event-opts="{{[['submit',[['formNickname',['$event']]]]]}}" bindsubmit="__e"><view class="page-block" style="margin-top:20rpx;"><input class="input" type="text" value="{{globalUser.nickname}}" name="nickname" placeholder="输入文字" maxlength="8"/></view><button class="submitBtn" type="primary" form-type="submit">修改</button></form></view>

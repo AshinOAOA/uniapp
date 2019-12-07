@@ -1,0 +1,1 @@
+<view class="page page-fill"><form data-event-opts="{{[['submit',[['formSex',['$event']]]],['reset',[['',['$event']]]]]}}" bindsubmit="__e" bindreset="__e"><view class="page-block" style="margin-top:20rpx;"></view><button class="submitBtn" type="primary" form-type="submit">修改</button></form></view>
